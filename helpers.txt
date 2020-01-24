@@ -1,0 +1,5 @@
+No Mac configurar o npm-global
+
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+
+$ tcs --init # iniciar projeto typescript
